@@ -15,3 +15,7 @@ microservice:
 
 test:
   input: 200000
+
+logging:
+  file:
+    name: /Users/atindra/Desktop/courses/javatechie_springboot/Spring Cloud Microservices/ecommerce-app-microservice-pattern/app-logs/ecom-log
