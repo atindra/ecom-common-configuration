@@ -18,4 +18,4 @@ test:
 
 logging:
   file:
-    name: /Users/atindra/Desktop/courses/javatechie_springboot/Spring Cloud Microservices/ecommerce-app-microservice-pattern/app-logs/ecom-log
+    name: /Users/atindra/Desktop/courses/javatechie_springboot/Spring Cloud Microservices/ecommerce-app-microservice-pattern/app-logs/ecom-app.log
